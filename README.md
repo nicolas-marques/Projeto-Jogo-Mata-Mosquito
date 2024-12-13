@@ -27,14 +27,14 @@ O **Mata Mosquito** é um jogo interativo desenvolvido com **HTML**, **CSS** e *
    - A quantidade de tempo entre o aparecimento dos mosquitos diminui conforme a dificuldade selecionada.
 
 
-   ![Tela inicial](imagens/mosq2.png.png)
+   ![Tela inicial](imagens/mosq2.png)
 
 3. **Tela de Game Over**:
    - Quando o tempo do jogo se esgota, ou quando o jogador perde todas as vidas, ou quando o jogador decide terminar, a tela de "Game Over" é exibida.
    - A tela mostra a pontuação final do jogador.
 
 
-   ![Tela inicial](imagens/mosq3.png.png)
+   ![Tela inicial](imagens/mosq3.png)
 
 ## Tecnologias Utilizadas
 
